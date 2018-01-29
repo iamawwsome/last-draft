@@ -1827,12 +1827,12 @@ draft-convert@^1.4.3:
     immutable "~3.7.4"
     invariant "^2.2.1"
 
-draft-js-alignment-plugin@2.0.0-rc2:
-  version "2.0.0-rc2"
-  resolved "https://registry.yarnpkg.com/draft-js-alignment-plugin/-/draft-js-alignment-plugin-2.0.0-rc2.tgz#1f2efa131b9b867d635a9ecd79e3a3c672dcb36f"
+draft-js-alignment-plugin@2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/draft-js-alignment-plugin/-/draft-js-alignment-plugin-2.0.1.tgz#f2c6e0bba8cecd25bf6a85da4955a0fcea7588ff"
   dependencies:
     decorate-component-with-props "^1.0.2"
-    draft-js-buttons "^2.0.0-rc2"
+    draft-js-buttons "^2.0.1"
     find-with-regex "^1.0.2"
     immutable "~3.7.4"
     prop-types "^15.5.8"
@@ -1848,13 +1848,19 @@ draft-js-buttons@^2.0.0-rc2:
   dependencies:
     union-class-names "^1.0.0"
 
+draft-js-buttons@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/draft-js-buttons/-/draft-js-buttons-2.0.1.tgz#8e88c4d6c816c3b7c8ae08a3daa799afa94e14be"
+  dependencies:
+    union-class-names "^1.0.0"
+
 draft-js-color-picker-plugin@1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/draft-js-color-picker-plugin/-/draft-js-color-picker-plugin-1.2.0.tgz#f46dffb2e1df787accb35066c9e31c6a191d88fe"
 
-draft-js-drag-n-drop-plugin@2.0.0-rc2:
-  version "2.0.0-rc2"
-  resolved "https://registry.yarnpkg.com/draft-js-drag-n-drop-plugin/-/draft-js-drag-n-drop-plugin-2.0.0-rc2.tgz#81ffee2323f91daf0ba01312cb4ae3a46b9ba85b"
+draft-js-drag-n-drop-plugin@2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/draft-js-drag-n-drop-plugin/-/draft-js-drag-n-drop-plugin-2.0.1.tgz#2f99cb39059444224fd2f08fbe45cd28749087db"
   dependencies:
     decorate-component-with-props "^1.0.2"
     find-with-regex "^1.0.2"
@@ -1872,9 +1878,9 @@ draft-js-emoji-picker-plugin@1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/draft-js-emoji-picker-plugin/-/draft-js-emoji-picker-plugin-1.2.0.tgz#c5fe3b1ddcfed9218c4fffec576d6e4b95fda4c4"
 
-draft-js-emoji-plugin@2.0.0-rc2:
-  version "2.0.0-rc2"
-  resolved "https://registry.yarnpkg.com/draft-js-emoji-plugin/-/draft-js-emoji-plugin-2.0.0-rc2.tgz#58bb56f31d80a64e3b679082dac131171ef418f7"
+draft-js-emoji-plugin@2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/draft-js-emoji-plugin/-/draft-js-emoji-plugin-2.0.1.tgz#50f828c81882f5b84a8656fdd45c6300a582eda9"
   dependencies:
     decorate-component-with-props "^1.0.2"
     emojione "^2.2.7"
@@ -1887,9 +1893,9 @@ draft-js-emoji-plugin@2.0.0-rc2:
     to-style "^1.3.3"
     union-class-names "^1.0.0"
 
-draft-js-focus-plugin@2.0.0-rc2:
-  version "2.0.0-rc2"
-  resolved "https://registry.yarnpkg.com/draft-js-focus-plugin/-/draft-js-focus-plugin-2.0.0-rc2.tgz#6b65e0c489a0cedc9cfad414b3313d44168375d9"
+draft-js-focus-plugin@2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/draft-js-focus-plugin/-/draft-js-focus-plugin-2.0.1.tgz#638c28c3382f5a6356e52c0d9e496405a5b594c2"
   dependencies:
     decorate-component-with-props "^1.0.2"
     find-with-regex "^1.0.2"
@@ -1901,9 +1907,9 @@ draft-js-gif-picker-plugin@1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/draft-js-gif-picker-plugin/-/draft-js-gif-picker-plugin-1.2.0.tgz#fba8502840c6f5d2aadf45ba76e9e9da8824c064"
 
-draft-js-hashtag-plugin@2.0.0-rc2:
-  version "2.0.0-rc2"
-  resolved "https://registry.yarnpkg.com/draft-js-hashtag-plugin/-/draft-js-hashtag-plugin-2.0.0-rc2.tgz#7381d73596548a0feb93dc345736a06190802e8f"
+draft-js-hashtag-plugin@2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/draft-js-hashtag-plugin/-/draft-js-hashtag-plugin-2.0.1.tgz#645aa4b8a78f74a6b60b41c723612c7bac3036a7"
   dependencies:
     decorate-component-with-props "^1.0.2"
     find-with-regex "^1.0.2"
@@ -1911,9 +1917,9 @@ draft-js-hashtag-plugin@2.0.0-rc2:
     prop-types "^15.5.8"
     union-class-names "^1.0.0"
 
-draft-js-image-plugin@2.0.0-rc2:
-  version "2.0.0-rc2"
-  resolved "https://registry.yarnpkg.com/draft-js-image-plugin/-/draft-js-image-plugin-2.0.0-rc2.tgz#c14d5834419dae3f7bb0ac65f2039cf588ed95ca"
+draft-js-image-plugin@2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/draft-js-image-plugin/-/draft-js-image-plugin-2.0.1.tgz#08b4c33b8d795d673512cdbf6eb2c02f748455c9"
   dependencies:
     decorate-component-with-props "^1.0.2"
     find-with-regex "^1.0.2"
@@ -1929,20 +1935,20 @@ draft-js-link-plugin@1.2.2:
     linkify-it "2.0.0"
     tlds "1.159.0"
 
-draft-js-linkify-plugin@2.0.0-rc2:
-  version "2.0.0-rc2"
-  resolved "https://registry.yarnpkg.com/draft-js-linkify-plugin/-/draft-js-linkify-plugin-2.0.0-rc2.tgz#6af1ee7012481767d9c5ac52a1b24e55a52b11fc"
+draft-js-linkify-plugin@2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/draft-js-linkify-plugin/-/draft-js-linkify-plugin-2.0.1.tgz#28978b53640ce64c639cd2821a54c24de9f79c3f"
   dependencies:
     decorate-component-with-props "^1.0.2"
     immutable "~3.7.4"
-    linkify-it "2.0.0"
+    linkify-it "^2.0.3"
     prop-types "^15.5.8"
-    tlds "1.159.0"
+    tlds "^1.189.0"
     union-class-names "^1.0.0"
 
-draft-js-mention-plugin@2.0.0-rc2:
-  version "2.0.0-rc2"
-  resolved "https://registry.yarnpkg.com/draft-js-mention-plugin/-/draft-js-mention-plugin-2.0.0-rc2.tgz#619fe1a12278f154937fb1b4c263a320b679919b"
+draft-js-mention-plugin@2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/draft-js-mention-plugin/-/draft-js-mention-plugin-2.0.1.tgz#388e39861df25d61c3de577799a69c92374e206a"
   dependencies:
     decorate-component-with-props "^1.0.2"
     find-with-regex "^1.0.2"
@@ -1959,19 +1965,19 @@ draft-js-modal-plugin@1.2.0:
     draft-js-emoji-picker-plugin "1.2.0"
     draft-js-gif-picker-plugin "1.2.0"
 
-draft-js-plugins-editor@2.0.0-rc2:
-  version "2.0.0-rc2"
-  resolved "https://registry.yarnpkg.com/draft-js-plugins-editor/-/draft-js-plugins-editor-2.0.0-rc2.tgz#521eb415882a1f670c03a00581247e752291218c"
+draft-js-plugins-editor@2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/draft-js-plugins-editor/-/draft-js-plugins-editor-2.0.1.tgz#6d5fc3b1d7fea901ee27b5ccb29d7a687973c98c"
   dependencies:
     decorate-component-with-props "^1.0.2"
     find-with-regex "^1.0.2"
-    immutable "~3.7.4"
+    immutable "^3.7.4"
     prop-types "^15.5.8"
     union-class-names "^1.0.0"
 
-draft-js-resizeable-plugin@2.0.0-rc2:
-  version "2.0.0-rc2"
-  resolved "https://registry.yarnpkg.com/draft-js-resizeable-plugin/-/draft-js-resizeable-plugin-2.0.0-rc2.tgz#698efae38ce4ce8bbce14da41eba6a488b66e7eb"
+draft-js-resizeable-plugin@2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/draft-js-resizeable-plugin/-/draft-js-resizeable-plugin-2.0.1.tgz#11183d4f681f0bf305b0bff55e42d91ba32aaae9"
   dependencies:
     decorate-component-with-props "^1.0.2"
     find-with-regex "^1.0.2"
@@ -2911,6 +2917,10 @@ immutable@3.7.4, immutable@~3.7.4:
   version "3.7.4"
   resolved "https://registry.yarnpkg.com/immutable/-/immutable-3.7.4.tgz#40ab3ec87b4ac95e0331a6d359a4b1fa73b2ddf3"
 
+immutable@^3.7.4:
+  version "3.8.2"
+  resolved "https://registry.yarnpkg.com/immutable/-/immutable-3.8.2.tgz#c2439951455bb39913daf281376f1530e104adf3"
+
 imurmurhash@^0.1.4:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/imurmurhash/-/imurmurhash-0.1.4.tgz#9218b9b2b928a238b13dc4fb6b6d576f231453ea"
@@ -3391,6 +3401,12 @@ levn@^0.3.0, levn@~0.3.0:
 linkify-it@2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/linkify-it/-/linkify-it-2.0.0.tgz#61de35c5f22c3633189a75d3c40cd3dc96acbb94"
+  dependencies:
+    uc.micro "^1.0.1"
+
+linkify-it@^2.0.3:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/linkify-it/-/linkify-it-2.0.3.tgz#d94a4648f9b1c179d64fa97291268bdb6ce9434f"
   dependencies:
     uc.micro "^1.0.1"
 
@@ -5210,6 +5226,10 @@ timers-browserify@^2.0.2:
 tlds@1.159.0:
   version "1.159.0"
   resolved "https://registry.yarnpkg.com/tlds/-/tlds-1.159.0.tgz#6cf5daf4379b3dfb09cb0ba4367293355bc6e368"
+
+tlds@^1.189.0:
+  version "1.199.0"
+  resolved "https://registry.yarnpkg.com/tlds/-/tlds-1.199.0.tgz#a4fc8c3058216488a80aaaebb427925007e55217"
 
 tmatch@^2.0.1:
   version "2.0.1"
