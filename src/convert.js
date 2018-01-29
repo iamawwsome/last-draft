@@ -5,7 +5,7 @@
  * License: MIT
  */
 
- import React from 'react'
+import React from 'react'
 import {convertToHTML, convertFromHTML} from 'draft-convert'
 import {Entity, convertToRaw, convertFromRaw, EditorState, ContentState} from 'draft-js'
 const REGEX_LF = new RegExp('\n', 'g');
